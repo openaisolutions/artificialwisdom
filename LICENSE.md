@@ -4,12 +4,6 @@
 
 Copyright (c) 2024, L. Todd Kromann. All rights reserved.
 
-# License for the Artificial Wisdom Series
-
-## Copyright Notice
-
-Copyright (c) 2024, L. Todd Kromann. All rights reserved.
-
 ## License Terms
 
 The content of the "Artificial Wisdom" series, including but not limited to written text, images, and any other material contained within this repository, is licensed under the following terms:
