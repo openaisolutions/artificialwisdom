@@ -4,6 +4,12 @@
 
 Copyright (c) 2024, L. Todd Kromann. All rights reserved.
 
+# License for the Artificial Wisdom Series
+
+## Copyright Notice
+
+Copyright (c) 2024, L. Todd Kromann. All rights reserved.
+
 ## License Terms
 
 The content of the "Artificial Wisdom" series, including but not limited to written text, images, and any other material contained within this repository, is licensed under the following terms:
@@ -30,4 +36,9 @@ For any software components contained within this repository, different licensin
 
 ## Disclaimer
 
-THE MATERIALS IN THIS REPOSITORY ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+THE MATERIALS IN THIS REPOSITORY ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
+
+## Contact
+
+For inquiries regarding the use of the "Artificial Wisdom" series materials beyond the scope of this license, please contact us at www.openagilesolutions.com.
+
