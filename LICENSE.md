@@ -2,7 +2,7 @@
 
 ## Copyright Notice
 
-Copyright (c) 2024, L. Todd Kromann. All rights reserved.
+Copyright (c) 2024 L. Todd Kromann and Open Agile Solutions. All rights reserved.
 
 ## License Terms
 
